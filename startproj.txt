@@ -7,3 +7,10 @@ git init
 
 git config --global user.name "Philip"
 git config --global user.email "philipsasin@ukr.net"
+
+комнада cd направление к папке
+PS C:\Users\Philip\Desktop\pygamestart> cd lesson3
+ls - список файлов
+
+C:\Users\Philip\Desktop\Django\lesson3> cd blog
+C:\Users\Philip\Desktop\Django\lesson3\blog> python .\manage.py runserver
